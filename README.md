@@ -1,4 +1,4 @@
-SkyPulse — Real-Time Weather App
+SkyPulse — Real-Time Weather Application
 
 Stay ahead of the weather. Accurate forecasts, severe alerts, and beautiful visualizations for anywhere in the world.
 
